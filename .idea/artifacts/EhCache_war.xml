@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EhCache:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="EhCache.war">
+      <element id="artifact" artifact-name="EhCache:war exploded" />
+    </root>
+  </artifact>
+</component>
